@@ -95,9 +95,10 @@ Add your dashboard screenshot here.
 Example:
 
 ```md
-![Dashboard Preview](dashboard-preview01.png)
-![Dashboard Preview](dashboard-preview02.png)
-```
+
+<img width="1301" height="643" alt="image" src="https://github.com/user-attachments/assets/497a46a6-3cb1-4dbc-95aa-b07ec506da89" />
+<img width="1301" height="643" alt="image" src="https://github.com/user-attachments/assets/c67ec231-37c0-46ff-9e78-db3e4329cc15" />
+
 
 ---
 
