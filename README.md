@@ -88,20 +88,6 @@ This dashboard helps businesses:
 
 ---
 
-## Dashboard Preview
-
-Add your dashboard screenshot here.
-
-Example:
-
-```md
-
-<img width="1301" height="643" alt="image" src="https://github.com/user-attachments/assets/497a46a6-3cb1-4dbc-95aa-b07ec506da89" />
-<img width="1301" height="643" alt="image" src="https://github.com/user-attachments/assets/c67ec231-37c0-46ff-9e78-db3e4329cc15" />
-
-
----
-
 ## Project Outcome
 
 This project demonstrates how Power BI can convert raw business data into meaningful insights through interactive dashboards and visual storytelling.
